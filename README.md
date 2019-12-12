@@ -4,6 +4,8 @@
 
 Paragraph explaining the code
 
+``` code commands``` with explanations
+
 ## Research 
 Quick paragraph explaining our research
 
